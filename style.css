@@ -1,0 +1,41 @@
+h2 {
+    font-size:32px;
+}
+
+p {
+    margin: 0;
+}
+
+.starting-course-container {
+    background-color: #9DC9C8;
+    padding : 100px 70px;
+}
+
+.price-box {
+    margin-bottom: 90px;
+}
+
+.price-value {
+    font-size: 46px;
+}
+
+.course-info {
+    display: flex;
+    gap: 40px;
+}
+
+.course-info-box {
+    display:flex;
+    flex-direction:column;
+    gap: 5px;
+    width:170px;
+}
+
+.course-info-title {
+    font-size:14px;
+}
+
+.course-info-text {
+    font-size: 10px;
+}
+
